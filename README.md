@@ -1,2 +1,0 @@
-# AMSJ
-Covao Developers
